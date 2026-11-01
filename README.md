@@ -20,5 +20,5 @@ Nesse dataset contém 11658 imóveis, contendo em cada imóvel as informações 
 
 # 🛠️ Ferramentas utilizadas
 
-* _Python & VS Code_ - O arquivo do dataset original continha erros de codificação de caracteres (acentos e cedilhas corrompidos devido à falta de UTF-8) e colunas desalinhadas por vírgulas nos endereços. Através do Python e VS Code, os dados foram realinhados e padronizados no formato UTF-8.<br>
-* _Excel_ - Após realinhar e padronizar toda a tabela, consegui detectar algumas incoerências utilizando filtros de formatação condicional nas colunas. Foi utilizado a formatação igual a 0, para identificar valores nulos e formatação menor ou igual a 8, para identificar imóveis com menos de 8 metros quadrados.
+* __Python & VS Code__ - O arquivo do dataset original continha erros de codificação de caracteres (acentos e cedilhas corrompidos devido à falta de UTF-8) e colunas desalinhadas por vírgulas nos endereços. Através do Python e VS Code, os dados foram realinhados e padronizados no formato UTF-8.<br>
+* __Excel__ - Após realinhar e padronizar toda a tabela, consegui detectar algumas incoerências utilizando filtros de formatação condicional nas colunas. Foi utilizado a formatação igual a 0, para identificar valores nulos e formatação menor ou igual a 8, para identificar imóveis com menos de 8 metros quadrados.

@@ -22,3 +22,13 @@ Nesse dataset contém 11658 imóveis, contendo em cada imóvel as informações 
 
 * __Python & VS Code__ - O arquivo do dataset original continha erros de codificação de caracteres (acentos e cedilhas corrompidos devido à falta de UTF-8) e colunas desalinhadas por vírgulas nos endereços. Através do Python e VS Code, os dados foram realinhados e padronizados no formato UTF-8.<br>
 * __Excel__ - Após realinhar e padronizar toda a tabela, consegui detectar algumas incoerências utilizando filtros de formatação condicional nas colunas. Foi utilizado a formatação igual a 0, para identificar valores nulos e formatação menor ou igual a 8, para identificar imóveis com menos de 8 metros quadrados.
+* __Power BI__ - A partir do Power BI, fiz gráficos interativos para mostrar comparações de valores médios entre bairros e afins, com o intuito de trazer mais visibilidade e interatividade ao projeto.
+
+# 🤖​ Uso de inteligência artificial
+
+Nesse projeto a inteligência artificial foi usada da seguinte forma: <br>
+<br>
+* __Python__ - O código para organização no erro de codificação de caracteres foi feito 100% com uso de inteligência artificial.
+* __Excel__ - Não houve uso.
+* __Power BI__ - Usado apenas tratar de alguns erros de organização, apenas como apoio.
+* __Escrita__ - Todos os textos foram escritos com as minhas palavras, apenas solicitado correções ortográficas.

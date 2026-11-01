@@ -12,10 +12,11 @@ Após essa organização, podemos seguir a análise dos dados com mais exatidão
 # 📊 Excel
 No Excel podemos identificar dados incoerentes com a formatação condicional, além de poder calcular valores por colunas.<br>
 ## Para baixar o arquivo clique aqui -> [data_organizado.xlsx](https://github.com/user-attachments/files/34244786/data_organizado.xlsx)
-### 🚽 Imóveis sem banheiro
-Foram identificados 37 imóveis sem banheiro com o comando =CONT.SE(D:D; 0), que identifica se na coluna que indica a quantidade de banheiros no imóvel se tem algum valor igual à 0. Dado que é incoerente, pois até pequenas kitnets de 10m², possuem banheiro integrado.<br>
+
+### 🛏️​ Imóveis sem quartos
+Foram identificados 37 imóveis sem quartos com o comando =CONT.SE(D:D; 0), que identifica se na coluna que indica a quantidade de quartos no imóvel se tem algum valor igual à 0. Dado que é incoerente, pois até pequenas kitnets de 10m², possuem quarto integrado.<br>
 <br>
-Um exemplo dessa situação está situada na linha 1004, imóvel do tipo apartamento de 28m², que não possue um banheiro.<br>
+Um exemplo dessa situação está situada na linha 1004, imóvel do tipo apartamento de 28m², que não possue um quarto.<br>
 
 <img width="584" height="240" alt="image" src="https://github.com/user-attachments/assets/a990b40a-8b88-4a8e-81a1-9a79d5377746" />
 
@@ -43,14 +44,23 @@ Nesse caso, o valor mediano é 2415 reais e foi encontrado a partir do comando =
 
 <img width="547" height="321" alt="image" src="https://github.com/user-attachments/assets/f4e9ec79-2ffa-4116-a26f-42081a781c66" />
 
-# 📊 Bairros com maiores e menores preços médios
-Por meio do Power BI, fiz um gráfico de barras empilhadas, mostrando o valor os bairros com o valor médio mais caro até o mais barato em ordem decrescente, utilizando filtros para calcular valor médio.<br>
+# 📊 Comparações com gráficos
+
+## Bairros com maiores e menores preços médios
+Gráfico de barras empilhadas, mostrando o valor os bairros com o valor médio mais caro até o mais barato em ordem decrescente, utilizando filtros para calcular valor médio feito no Power BI.
+<br>
 
 ### Bairros com valor médio mais caro:
+
 <img width="595" height="334" alt="image" src="https://github.com/user-attachments/assets/ea79d471-0d4f-42df-802f-6ca9693ce8e3" />
 
 ### Bairros com valor médio mais barato:
 <img width="587" height="329" alt="image" src="https://github.com/user-attachments/assets/021066bf-bad4-4fb3-8b53-6941f6a7afc1" />
+
+## Comparação do valor do aluguel em relação a tamanho do imóvel
+Gráfico de dispersão mostra no eixo X o tamanho do imóvel (m²) e no eixo Y o valor médio do imóvel. Note que há um ponto isolado na parte de cima, representa uma dado fora da curva, uma discrepância, um imóvel com menos de 50m² custando 25 mil.
+
+<img width="602" height="337" alt="image" src="https://github.com/user-attachments/assets/b426328e-955f-4cc2-af49-417652c46f3d" />
 
 
 

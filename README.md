@@ -15,10 +15,10 @@ Nesse dataset contém uma análise detalhada sobre preços de aluguel em São Pa
 * Tipo: O tipo de propriedade (apartamento, casa, etc.)<br>
 * Total: O custo total do imóvel, incluindo aluguel, impostos e outras taxas.<br>
 <br>
-Nesse dataset contém 11658 imóveis, contendo em cada imóvel as informações descritas acima.
+Nesse dataset contém 11658 imóveis, contendo em cada imóvel as informações descritas acima.<br>
 <br>
-<br>
-🔗 Dataset Original: [São Paulo Housing Prices - Kaggle](https://www.kaggle.com/datasets/renatosn/sao-paulo-housing-prices)
+
+**Dataset Original:** [São Paulo Housing Prices - Kaggle](https://www.kaggle.com/datasets/renatosn/sao-paulo-housing-prices)
 
 # 🛠️ Ferramentas utilizadas
 

@@ -9,7 +9,7 @@ Após a formatação utilizando o código incluso na pasta de arquivos nomeado c
 
 Após essa organização, podemos seguir a análise dos dados com mais exatidão e organização.<br>
 <br>
-# Excel
+# 📊 Excel
 No Excel podemos identificar dados incoerentes com a formatação condicional, podendo assim marcar dados incorretos com a cor vermelha.<br>
 ### Imóveis sem banheiro
 Foram identificados 37 imóveis sem banheiro com o comando =CONT.SE(D:D; 0), que identifica se na coluna que indica a quantidade de banheiros no imóvel se tem algum valor igual à 0. Dado que é incoerente, pois até pequenas kitnets de 10m², possuem banheiro integrado.<br>

@@ -11,7 +11,7 @@ Após essa organização, podemos seguir a análise dos dados com mais exatidão
 <br>
 # 📊 Excel
 No Excel podemos identificar dados incoerentes com a formatação condicional, além de poder calcular valores por colunas.<br>
-## Para baixar o arquivo, clique aqui -> [data_organizado.xlsx](https://github.com/user-attachments/files/34244786/data_organizado.xlsx)
+## Para baixar o arquivo, clique aqui -> [data_organizado.xlsx](https://github.com/user-attachments/files/34248862/data_organizado.xlsx)
 
 ### 🛏️​ Imóveis sem quartos
 Foram identificados 37 imóveis sem quartos com o comando =CONT.SE(D:D; 0), que identifica se na coluna que indica a quantidade de quartos no imóvel se tem algum valor igual à 0. Dado que é incoerente, pois até pequenas kitnets de 10m², possuem quarto integrado.<br>

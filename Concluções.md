@@ -27,3 +27,16 @@ Nesse dataset foram registrados 1.381 kitnets, análise feita com o comando =CON
 <br>
 Foi constatado que 37 imóveis não possuem quartos, uma situação incomum que faz duvidar da veracidade dos dados, já que não faz sentido um imóvel comprado para residir não ter um quarto.
 <br>
+
+## 🏠​ Casas em condomínios
+<br>
+Foi constatado que casas em condomínio, embora em pequena quantidade (241 imóveis), possuem uma diferença entre o custo do aluguel e o custo total muito mais rentável do que outros imóveis, contando ainda com a segurança privada do próprio condomínio.
+<br>
+
+# Pergunta da orientadora
+
+### Quais características parecem acompanhar os maiores e os menores preços de aluguel e o que os dados não permitem concluir?
+<br>
+São várias características que acompanham os preços de aluguel, mas a quantidade de m² e a localização são os fatores mais Fortes. Podemos concluir que nenhuma dessas características isoladamente pode definir os dois polos de preços, já que uma casa com muitos m² em uma área desvalorizada pode ter o mesmo valor que uma kitnet em uma área hipervalorizada.
+<br>
+Os dados não permitem concluir quais são as condições gerais do imóvel, fator primordial que define se o cliente o alugará ou não.

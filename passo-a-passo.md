@@ -62,6 +62,16 @@ Gráfico de dispersão mostra no eixo X o tamanho do imóvel (m²) e no eixo Y o
 
 <img width="602" height="337" alt="image" src="https://github.com/user-attachments/assets/b426328e-955f-4cc2-af49-417652c46f3d" />
 
+## Comparação de valor do aluguel em relação a quantidade de quartos
+Gráfico de colunas clusterizado que mostra o custo médio em relação à quantidade de quartos. Nota-se que os imóveis que não possuem quartos esta com o custo médio um pouco acima do custo pra imóveis com um quarto, essa informação reforça que a complexidade de analisar grandes volumes de dados, pois sempre haverá alguma discrepância que influencie os gráficos. 
+
+<img width="599" height="331" alt="image" src="https://github.com/user-attachments/assets/e0111930-7c00-45de-9fe3-0e22217dfe86" />
+
+
+
+
+
+
 
 
 

@@ -36,3 +36,9 @@ Nesse projeto a inteligência artificial foi usada da seguinte forma: <br>
 # Baixe aqui todas as planilhas:
 
 ## Drive: 📁 [CLIQUE AQUI](https://drive.google.com/drive/folders/11n7sF2tjfqrFfN1YNQfMvH1B8qGQIS4a?usp=drive_link)
+<br>
+### Para instalar as bibliotecas necessárias do código em Python digite no terminal do VS Code:
+<br>
+pip install pandas
+<br>
+pip install pandas openpyxl

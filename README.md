@@ -26,6 +26,8 @@ Nesse dataset contém 11658 imóveis, contendo em cada imóvel as informações 
 * __Excel__ - Após realinhar e padronizar toda a tabela, consegui detectar algumas incoerências utilizando filtros de formatação condicional nas colunas. Foi utilizado a formatação igual a 0, para identificar valores nulos e formatação menor ou igual a 8, para identificar imóveis com menos de 8 metros quadrados.
 * __Power BI__ - A partir do Power BI, fiz gráficos interativos para mostrar comparações de valores médios entre bairros e afins, com o intuito de trazer mais visibilidade e interatividade ao projeto.
 
+### Para conferir o meu passo a passo na análise desses dados, verifique no arquivo `Passo-a-Passo.md`
+
 # 🤖​ Uso de inteligência artificial
 
 Nesse projeto a inteligência artificial foi usada da seguinte forma: <br>

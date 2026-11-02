@@ -37,7 +37,7 @@ Nesse projeto a inteligência artificial foi usada da seguinte forma: <br>
 * __Power BI__ - Usado apenas tratar de alguns erros de organização, apenas como apoio.
 * __Escrita__ - Todos os textos foram escritos com as minhas palavras, apenas solicitado correções ortográficas.
 
-# Baixe aqui todas as planilhas:
+# Baixe aqui todos os gráficos e tabelas:
 
 ## Drive: 📁 [CLIQUE AQUI](https://drive.google.com/drive/folders/11n7sF2tjfqrFfN1YNQfMvH1B8qGQIS4a?usp=drive_link)
 <br>

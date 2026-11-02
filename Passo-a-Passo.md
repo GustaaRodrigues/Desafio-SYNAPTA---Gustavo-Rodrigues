@@ -67,6 +67,8 @@ Gráfico de colunas clusterizado que mostra o custo médio em relação à quant
 
 <img width="599" height="331" alt="image" src="https://github.com/user-attachments/assets/e0111930-7c00-45de-9fe3-0e22217dfe86" />
 
+## Confira agora as conclusões sobre a análise desse dataset no arquivo `Conclusões.md`
+
 
 
 

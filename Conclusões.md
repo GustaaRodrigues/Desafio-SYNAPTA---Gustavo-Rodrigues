@@ -39,4 +39,4 @@ Foi constatado que casas em condomínio, embora em pequena quantidade (241 imóv
 <br>
 São várias características que acompanham os preços de aluguel, mas a quantidade de m² e a localização são os fatores mais Fortes. Podemos concluir que nenhuma dessas características isoladamente pode definir os dois polos de preços, já que uma casa com muitos m² em uma área desvalorizada pode ter o mesmo valor que uma kitnet em uma área hipervalorizada.
 <br>
-Os dados não permitem concluir quais são as condições gerais do imóvel, fator primordial que define se o cliente o alugará ou não.
+"Os dados não permitem concluir quais são as condições gerais do imóvel, fator primordial que define se o cliente o alugará ou não. Além disso, não há outras informações sobre o imóvel, como, por exemplo, a quantidade de banheiros.
